@@ -4,7 +4,15 @@
 节点为网络收集。持续更新。仅为调试个人程序。如某些节点令其制作者不悦可找本人删除
 
 
-订阅地址：https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
+订阅地址：
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/speednodes.yaml
+兼容clash for Windows 最终版，支持clashmeta
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/meta.yaml
+面向clashmeta
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/sing-box.json
+面向sing-box
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/speednodes.txt
+面向v2ray
 
 
 国家（地区）代号：
