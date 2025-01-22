@@ -5,14 +5,14 @@
 
 
 订阅地址：
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/speednodes.yaml
-兼容clash for Windows 最终版，支持clashmeta
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/meta.yaml
-面向clashmeta
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/sing-box.json
-面向sing-box
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/master/speednodes.txt
-面向v2ray
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/speednodes.yaml
+<br>兼容clash for Windows 最终版，支持clashmeta
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/meta.yaml
+<br>面向clashmeta
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/sing-box.json
+<br>面向sing-box
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/speednodes.txt
+<br>面向v2ray
 
 
 国家（地区）代号：
