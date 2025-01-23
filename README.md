@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## 访问人数
+访问人数
 
 ![Visitor Count](https://profile-counter.glitch.me/{zhangkai}/count.svg)
 
