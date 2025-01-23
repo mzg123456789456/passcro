@@ -1,8 +1,9 @@
 
 <div align="center">
 
-## 防失联==tg: https://t.me/passcrovv
+### 防失联==tg: https://t.me/passcrovv
 
+##
 </div>
 
 <div align="center">
@@ -11,9 +12,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{zhangkai}/count.svg)
 
-</div>
-
-<div align="center">
 节点为网络收集。持续更新。仅为调试个人程序。如某些节点令其制作者不悦可找本人删除
 </div>
 
