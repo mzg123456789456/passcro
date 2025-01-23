@@ -32,7 +32,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiRlJfc3BlZWRub2RlXzAwMzEiLCAiYWRkIjogImJleW9uZGRi
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#GB_speednode_0032
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#GB_speednode_0033
 ssr://e3NlcnZlcn06e3BvcnR9Ontwcm90b2NvbH06e2NpcGhlcn06e29iZnN9OntwYXNzd29yZH0vP29iZnNwYXJhbT17b2Jmc3BhcmFtfSZwcm90b3BhcmFtPXtwcm90b3BhcmFtfSZyZW1hcmtzPXtyZW1hcmtzfSZncm91cD17Z3JvdXB9
-None
 vless://5f0baf2f-733e-455c-aaff-0620ecd4bba8@92.114.20.12:1010?encryption=none&security=none&flow=&type=tcp&sni=www.speedtest.net&serverName=www.speedtest.net&headerType=http&fp=&alpn=&allowInsecure=0#IR_speednode_0036
 hysteria2://54185b6e-851a-4109-b6a9-7beb86f41c05@jpaz2.ktmurl.club:18385?&insecure=1&obfs=&obfs-password=&sni=jpaz2.ktmurl.club#JP_speednode_0038
 vless://71d355f3-6def-4683-8857-24b7dd5564fd@live.989bull.com:443?encryption=none&security=tls&flow=&type=ws&sni=live.989bull.com&fp=chrome&alpn=h2%2Chttp%2F1.1&host=Golestan_VPN.com&path=%2FCHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN%3Fed%3D8080&allowInsecure=0#JP_speednode_0040
