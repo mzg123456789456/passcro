@@ -5,13 +5,13 @@
 
 
 订阅地址：
-<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/speednodes.yaml
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 <br>兼容clash for Windows 最终版，支持clashmeta
-<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/meta.yaml
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml
 <br>面向clashmeta
-<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/sing-box.json
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/sing-box.json
 <br>面向sing-box
-<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/refs/heads/main/speednodes.txt
+<br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.txt
 <br>面向v2ray
 
 
