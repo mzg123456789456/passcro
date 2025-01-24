@@ -1,8 +1,24 @@
 
-防失联==tg: https://t.me/passcrovv
+<div align="center">
+
+### 防失联==tg: https://t.me/passcrovv
+
+##
+</div>
+
+<div align="center">
+
+访问人数
+
+![Visitor Count](https://profile-counter.glitch.me/{zhangkai}/count.svg)
 
 节点为网络收集。持续更新。仅为调试个人程序。如某些节点令其制作者不悦可找本人删除
+</div>
 
+<div>
+
+##
+</div>
 
 订阅地址：
 <br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
@@ -14,6 +30,10 @@
 <br>https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.txt
 <br>面向v2ray
 
+<div>
+
+##
+</div>
 
 国家（地区）代号：
 <tb>
@@ -272,5 +292,4 @@
 <li>ZM:&ensp;Zambia</li>
 <li>ZW:&ensp;Zimbabwe</li>
 </tb>
-
 
